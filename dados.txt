@@ -3,7 +3,7 @@ Dados do aluno
 -Primeiro Nome: marcia
 -Profissão: arquiteta
 -Cidade: sao paulo 
--O que faz nas horas vaga: cozinhar e jogar com meus amigos
+-O que faz nas horas vaga: jogar e sair com meus amigos
 -Feedback sobre o curso Qualidade de Software: esta muito didatico
 -Feedback sobre a plataforma de estudo da EBAC: esta muito bom
 
